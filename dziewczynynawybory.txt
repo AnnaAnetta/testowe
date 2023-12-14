@@ -1,0 +1,13 @@
+1.4.
+Chapter 5 (Research ethics II: Science involving humans, pp. 125-155) in Briggle, A., & Mitcham, C. (2012). Ethics and Science: An Introduction (Cambridge Applied Ethics). Cambridge: Cambridge University Press. doi:10.1017/CBO9781139034111
+European Commission, DG Research & Innovation (July 2021). Ethics in Social Science and Humanities. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ethics-in-social-science-and-humanities_he_en.pdf
+Please read through the ALLEA Code of Conduct and mark all sections that seem particularly important for Data Stewards (Not just in section 2.5. Data Practices and Management!): All European Academies. (2023). The European Code of Conduct for Research Integrity. Retrieved August 25, 2023, from https://allea.org/code-of-conduct/
+In the interactive movie, The Lab, please watch the introduction, then play through the story either in the role of Kim Park (Grad Student) or Hardik Rao (Post Doc). Please play the story through once making the decisions that seem best to you and take notes of your decisions and the results. (Feel free to explore other decision options after that if you want to.) Also, please take note of all issues arising in the story that would be particularly relevant for data stewards.
+The Office of Research Integrity. (n.d.). The Lab. Retrieved September 2, 2022, from https://ori.hhs.gov/the-lab
+Please look up your institution’s website and explore what RRP structures and guidelines are available. Take notes of the following: can you find a research integrity office, a person responsible for research integrity questions, training on RRP issues, units with overlapping responsibilities like legal counseling, an ombudsperson etc. Does your institution have a research ethics committee or an institutional review board? What is its mandate and membership? As you seek information, assess whether the information is easy to find (how many clicks from the home page?), where in the organizational structure the services are located, whether the services appear approachable, etc. In case your institution does not have any of these services, look up another research performing organization for this exercise.
+
+
+
+
+1.5. https://www.tudelft.nl/en/library/research-data-management/r/plan/data-management-costs
+
